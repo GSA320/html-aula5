@@ -8,3 +8,7 @@ label{
     height: 150px;
     margin-bottom: 10px;
 }
+
+section a{
+    align-items:baseline;
+}
