@@ -1,0 +1,10 @@
+table,thead, tr, td{
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+label{
+    height: 150px;
+    margin-bottom: 10px;
+}
